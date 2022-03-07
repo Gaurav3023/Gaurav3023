@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Gaurav3023
-- 👀 I’m interested in nothing
+- 👋 Hi, I’m Gaurav
+- 👀 I’m interested in all of things
 - 🌱 I’m currently learning Software Development 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
