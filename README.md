@@ -38,7 +38,7 @@ List some of the key skills and technologies I'm proficient in.
 
 ## Let's Connect
 
-- LinkedIn: [Gaurav Saini](www.linkedin.com/in/gauravsaini30)
+- LinkedIn: www.linkedin.com/in/gauravsaini30
 - Email: sainigaurav746@gmail.com
 
 Feel free to explore my projects, and don't hesitate to reach out if you have questions or want to collaborate!
