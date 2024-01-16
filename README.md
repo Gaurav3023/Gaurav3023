@@ -4,7 +4,7 @@ I'm a software development enthusiast currently studying at Seneca College. Welc
 
 ## About Me
 
-- 🎓 Studying Software Development at Seneca College
+- 🎓 Studying Software Development at Seneca Polytechnic
 - 💻 Passionate about coding and building cool stuff
 - 🌱 Always learning and exploring new technologies
 
